@@ -1,3 +1,5 @@
 Hello Branch 
 
 Branch text updated
+
+This is new thing from branch.
